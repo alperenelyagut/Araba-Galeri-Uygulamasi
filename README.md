@@ -1,1 +1,1 @@
-# ArabaGaleriUygulamasi
+# Araba Galeri Uygulaması
